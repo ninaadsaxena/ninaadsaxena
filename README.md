@@ -1,4 +1,4 @@
-# Hi, I'm Ninaad!
+<h1 align="center">Hi, I'm Ninaad</h1>
 
 💻 Software Engineering student merging Tech and Creativity<br/>
 🎓 Studying CSE with specialization in AI and ML<br/>
