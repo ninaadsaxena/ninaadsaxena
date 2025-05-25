@@ -1,4 +1,4 @@
-### Hi, I'm Ninaad!
+# Hi, I'm Ninaad!
 
 💻 Software Engineering student merging Tech and Creativity<br/>
 🎓 Studying CSE with specialization in AI and ML<br/>
