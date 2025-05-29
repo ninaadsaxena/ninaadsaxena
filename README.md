@@ -16,5 +16,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ninaadsaxena&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninaadsaxena&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 [![Ninaad's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ninaadsaxena&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ninaad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ninaadsaxena&bg_color=000000&color=94c8ff&line=febdff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
